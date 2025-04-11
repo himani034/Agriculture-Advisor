@@ -1,0 +1,17 @@
+SUSTAINABLE AGRICULTURE ADVISOR
+
+This Streamlit app helps farmers predict sustainability scores based on soil, crop, and weather parameters. It provides personlaized recommendations, visual insights, and downloadable reports to promote eco-friendly farming practices.
+
+FEATURES
+- Sustainability score prediction
+- Personalized farming suggestions
+- Visual charts and progress bar
+- Downloadable PDF and CSV reports
+
+TECH STACK
+- Python
+- Streamlit
+- scikit-learn
+- joblib
+- FPDF
+- Pandas
